@@ -1,6 +1,7 @@
 # Lampe autocollante
 Ceci est le répertoire de travail sur la lampe autocollante basée pour l'instant sur le [projet WLED](https://github.com/Aircoookie/WLED).
-![alt text](https://github.com/ThotAlion/lampe-autocollante/edit/master/IMG_20200913_102709.jpg "Logo Title Text 1")
+
+![alt text](https://github.com/ThotAlion/lampe-autocollante/raw/master/IMG_20200913_102709.jpg)
 
 ## Matériel
 
